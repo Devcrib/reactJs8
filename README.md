@@ -6,6 +6,7 @@
 - Composite Pattern - https://repl.it/@DotunLonge/DeepskyblueConstantGoitered
 - Flyweight Pattern - https://repl.it/@DotunLonge/IntentionalCalculatingSaltwatercrocodile
 - Facade Pattern - https://repl.it/@DotunLonge/ArtisticAcademicMamenchisaurus
+- Command Pattern - https://repl.it/@DotunLonge/ObviousWindingRam
 
 # Design Patterns
 
@@ -702,7 +703,7 @@ For example if you want to build an application that supports copy, cut, and pas
 - ```
     
   function add(x, y) { return x + y; }
-  function sub(x, y) { return x y; }
+  function sub(x, y) { return x- y; }
   function mul(x, y) { return x * y; }
   function div(x, y) { return x / y; }
     
