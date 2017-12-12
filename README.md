@@ -5,6 +5,7 @@
 - Bridge Pattern - https://repl.it/@DotunLonge/CraftyFrighteningSable
 - Composite Pattern - https://repl.it/@DotunLonge/DeepskyblueConstantGoitered
 - Flyweight Pattern - https://repl.it/@DotunLonge/IntentionalCalculatingSaltwatercrocodile
+- Facade Pattern - https://repl.it/@DotunLonge/ArtisticAcademicMamenchisaurus
 
 # Design Patterns
 
